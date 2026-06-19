@@ -1,0 +1,6 @@
+{
+  "name": "CodeFlow",
+  "description": "An online C# editor and execution environment styled precisely like Claude AI, featuring live WebSocket output streaming, interactive terminal input, and an elegant, minimal user interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
